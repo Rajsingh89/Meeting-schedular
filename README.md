@@ -9,6 +9,10 @@ A sleek and modern meeting scheduler app built using **Next.js 14**, **Tailwind 
 - ⚡ Fast performance with Next.js App Router
 - 🧠 Clean architecture using TypeScript & React hooks
 
+## 🧐 Live Preview Link
+
+- 🔗 https://meeting-schedular-flame.vercel.app/
+
 ## 🛠️ Tech Stack
 
 - **Framework:** Next.js 14 (App Router)
